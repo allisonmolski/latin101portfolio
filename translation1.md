@@ -17,21 +17,37 @@ Surround all the verbs with two asterisks. (These will display as bold text.)
 Surround all the subjects with one asterisk. (These will display as italic text.)
 
 B. Grammatical Questions
+
 What case is eius and to what does it refer?
+
   Genitive, refers to Chaos' daughters
+  
 What type of word is haec ?
+
   Demonstrative pronoun
+  
 To whom does illius refer?
+
   "That mother", Nox
+  
 What case, number, and gender is monstra?
+
   Nominative, plural, and neuter
+  
 What declension does the word dracōnēs belong to?
+
   3rd declension
+  
 What case and number is eorum and to whom does it refer?
+
   Genitive plural, referring to the three brothers of Uranus: Typhon, Python, Cyclopes
+  
 What declension does the word dracōnēs belong to?
+
   3rd declension
+  
 What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum?
+
   ipse
   
 C. Translation
