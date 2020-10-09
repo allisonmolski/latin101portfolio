@@ -27,7 +27,8 @@ Parse data est and indicate what conjugation the verb belongs to.
 3rd person, singular, perfect, passive, indicative. It belongs to the first conjugation
 
 What type of grammatical construction is ab Iove?
- It is the agent of the sentence, trnaslating to "by".
+ It is the agent of the sentence, translating to "by".
+ 
 What tense is erat and what are the principle parts of the verb it comes from?
 Erat is the imperfect, and it comes from the verb sum, esse, fui, futurus, which means to be.
 
