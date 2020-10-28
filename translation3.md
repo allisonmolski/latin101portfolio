@@ -23,8 +23,8 @@ What type of construction is ab fulmine?
 C. Translation
 Please translate the passage into idiomatic English.
 
-Erechtheus, the brother of Pandion, has four sisters. 
-At the time, Eumolpus, the brother of Neptune, came to Athens to attack, but he died. 
+Erechtheus, the son of Pandion, has four sisters. 
+At the time, Eumolpus, the son of Neptune, came in order to attack Athens, but he was killed. 
 Angry because his son was killed, Neptune said "Erecthei was sacrificed"
-Then, Chthonia, the first sister, was sacrificed. 
+And so, Chthonia, the first sister, was sacrificed. 
 The other sisters sacrificed themselves; Erechtheus was struck by a lightning bolt. 
