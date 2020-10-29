@@ -1,5 +1,7 @@
+**Needs corrections**
+
 1a. venit
-1b. ducendum 
+1b. ducendum
 1c. canem
 1d. masculine accusative singular
 
@@ -20,8 +22,8 @@
 
 5a. venit
 5b. faciendum
-5c. venit
-5d. neuter
+5c. venit **This should be the noun that *faciendum* modifies**
+5d. neuter **Remember that the form should include *gender case number*.**
 
 6a. dedit
 6b. exponendum
