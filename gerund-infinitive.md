@@ -1,3 +1,5 @@
+**Satisfatory:  full credit**
+
 1a. cogebat
 1b. present passive
 1c. imperfect active
