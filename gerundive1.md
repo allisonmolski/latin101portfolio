@@ -1,4 +1,4 @@
-**Needs corrections**
+**corrected**
 
 1a. venit
 1b. ducendum
@@ -22,8 +22,8 @@
 
 5a. venit
 5b. faciendum
-5c. venit **This should be the noun that *faciendum* modifies**
-5d. neuter **Remember that the form should include *gender case number*.**
+5c. **sacrum**
+5d. **neuter accusative singular**
 
 6a. dedit
 6b. exponendum
