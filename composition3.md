@@ -5,4 +5,4 @@ Ei eam non vidit.
 Ei e lectum non potuerunt fugisse.
 Deorum quaesiti sunt videndi eum.
 Multus annosMars quod facti pudor sensit.
-Amare divinus est, et errare divinus est. 
+Amare divinus est, sed errare divinus est. 
