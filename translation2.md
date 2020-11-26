@@ -1,15 +1,23 @@
-Passage to analyze
-Highlighting like this indicates words or phrases referred to in grammatical questions.
+**Needs revisions**
 
-Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. 
-Simul *Vulcānus* ex lutō fēminam **faciēbat**. 
-*Minerva* huic fēminae animam **dedit** et omnēs deī dōna eī **misērunt**. 
-ob id nōmen “Pandōra” ei **datum est**. 
-*Pandōra* ab Iove in coniugium Epimetheō **data est**. 
+Passage to analyze
+
+Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**.
+Simul *Vulcānus* ex lutō fēminam **faciēbat**.
+*Minerva* huic fēminae animam **dedit** et omnēs deī dōna eī **misērunt**.
+ob id nōmen “Pandōra” ei **datum est**.
+*Pandōra* ab Iove in coniugium Epimetheō **data est**.
 Fīlia eōrum **erat** *Pyrrha*, prīma mortālis.
 
 A. Grammatical Analysis
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
+
+**Does *miserunt* have a subject to highlight?**
+**Does *datum est* have a subject to highlight?**
+**Given the word order, *Pyrrha* is probably easier to understand as a *predicate*;  what would the subject of *erat* be?**
+
+
+
 B. Grammatical Questions
 What is the grammatical function of Iapetī fīlius prīmus?
 It describes the subject Prometheus
@@ -28,17 +36,16 @@ Parse data est and indicate what conjugation the verb belongs to.
 
 What type of grammatical construction is ab Iove?
  It is the agent of the sentence, translating to "by".
- 
+
 What tense is erat and what are the principle parts of the verb it comes from?
 Erat is the imperfect, and it comes from the verb sum, esse, fui, futurus, which means to be.
 
 
 C. Translation
 Please translate the passage into idiomatic English.
-Long ago, Prometheus, first son of Lapetus, was fashioning humans out of mud.
+Long ago, Prometheus, first son of Iapetus, was fashioning humans out of mud.
 At the same time, Vulcanus was making a woman out of mud.
-Minerva gave a soul to this woman and all of the gods sent gifts to her. 
+Minerva gave a soul to this woman and all of the gods sent gifts to her.
 Because of it she was given the name Pandora.
-Pandora was given to Epimetheus in marriage by Jove. 
+Pandora was given to Epimetheus in marriage by Jove.
 Her sister was Pyrrha, the first mortal.
-
