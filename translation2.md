@@ -45,4 +45,4 @@ At the same time, Vulcanus was making a woman out of mud.
 Minerva gave a soul to this woman and all of the gods sent gifts to her.
 Because of it the name Pandora was given to her.
 Pandora was given to Epimetheus in marriage by Jove.
-Her sister was Pyrrha, the first mortal.
+Their daughter was Pyrrha, the first mortal.
