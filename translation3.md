@@ -17,7 +17,7 @@ What case is the phrase illō tempōre and why is it in that case?
 Ablative to express the specific time of an event
 
 What part of speech is oppugnandās?
-Adjective.  **More specifically:  what kind of adjective?  You won't find this in the dictionary by looking for *oppugnandus, -a, -um*! (Look at your answer to the next question for a clue!)**
+Gerundive
 
 What idea does Athenas oppugnandās express?
 purpose
@@ -29,7 +29,7 @@ What kind of construction is immolanda est?
 Gerundive with the perfect passive
 
 Parse (GCN) ceterae sorōrēs.
-Feminine accusative plural  **Note that *ceterae* cannot be accusative plural.  So what could this combination be?**
+Feminine nomivative plural 
 
 What type of construction is ab fulmine?
 ab + ablative in the singular
@@ -38,8 +38,8 @@ ab + ablative in the singular
 C. Translation
 Please translate the passage into idiomatic English.
 
-Erechtheus, the son of Pandion, had four sisters. (**Vocabulary check:  *filia* is not "sister"...**)
+Erechtheus, the son of Pandion, had four daughters.
 At the time, Eumolpus, the son of Neptune, came in order to attack Athens, but he was killed.
-Angry because his son was killed, Neptune said "Erecthei was sacrificed" (**What is the subject of Neptune's statement? What does *immolanda* agree with?**)
-And so, Chthonia, the first sister, was sacrificed. (**First = *primus, -a, -um*;   *unus* == "one"**)
+Angry because his son was killed, Neptune said "The daughter of Erecthei must be sacrificed".
+And so, Chthonia, one of the daughters, was sacrificed.
 The other sisters sacrificed themselves; Erechtheus himself was struck by a lightning bolt.
