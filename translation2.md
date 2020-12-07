@@ -37,7 +37,9 @@ Erat is the imperfect, and it comes from the verb sum, esse, fui, futurus, which
 
 
 C. Translation
+
 Please translate the passage into idiomatic English.
+
 Long ago, Prometheus, first son of Iapetus, was fashioning humans out of mud.
 At the same time, Vulcanus was making a woman out of mud.
 Minerva gave a soul to this woman and all of the gods sent gifts to her.
