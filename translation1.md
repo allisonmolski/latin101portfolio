@@ -52,9 +52,9 @@ C. Translation
 Please translate the passage into idiomatic English.
 
 Chaos was first of the gods.
-Of his daughters, Nox was goddess of the earth and mother of all humans. **We need to figure out the subject of this sentence and, since you've identified the verb correctly as a form of "to be", a predicate.  That will help you get the translation right.**
-This **(or just "she")** was the mother of the god of death and destruction.
+His daughters were Nox and Earth, the mother of all humans.
+She was the mother of the god of death and destruction.
 The sons of that mother were horrible monsters: Typhon, Python, and Cyclopes.
-Typhon and Python were huge dragons and Cyclopes of a foolish stone worker.  **(Cyclopes is actually a PLURAL from the name *Cyclops, Cyclopis* "Cyclops". That will help you make sense of this sentence.)**
+Typhon and Python were huge dragons and Cyclopes were foolish stone workers.
 But the brother of them was Uranus, himself the first king of the gods.
 He was strong and great, but wise.
