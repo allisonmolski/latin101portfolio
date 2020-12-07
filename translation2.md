@@ -4,18 +4,13 @@ Passage to analyze
 
 Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**.
 Simul *Vulcānus* ex lutō fēminam **faciēbat**.
-*Minerva* huic fēminae animam **dedit** et omnēs deī dōna eī **misērunt**.
-ob id nōmen “Pandōra” ei **datum est**.
+*Minerva* huic fēminae animam **dedit** et omnēs *deī* dōna eī **misērunt**.
+ob id *nōmen* “Pandōra” ei **datum est**.
 *Pandōra* ab Iove in coniugium Epimetheō **data est**.
-Fīlia eōrum **erat** *Pyrrha*, prīma mortālis.
+*Fīlia* eōrum **erat** Pyrrha, prīma mortālis.
 
 A. Grammatical Analysis
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
-
-**Does *miserunt* have a subject to highlight?**
-**Does *datum est* have a subject to highlight?**
-**Given the word order, *Pyrrha* is probably easier to understand as a *predicate*;  what would the subject of *erat* be?**
-
 
 
 B. Grammatical Questions
