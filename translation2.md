@@ -43,6 +43,6 @@ Please translate the passage into idiomatic English.
 Long ago, Prometheus, first son of Iapetus, was fashioning humans out of mud.
 At the same time, Vulcanus was making a woman out of mud.
 Minerva gave a soul to this woman and all of the gods sent gifts to her.
-Because of it she was given the name Pandora.
+Because of it the name Pandora was given to her.
 Pandora was given to Epimetheus in marriage by Jove.
 Her sister was Pyrrha, the first mortal.
