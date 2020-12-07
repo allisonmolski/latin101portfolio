@@ -1,3 +1,4 @@
+**Satisfactory: full credit**
 *Erechtheus*, Pandīonis fīlius, **habuit** fīliās quattuor.
 illō tempōre, *Eumolpus*, Neptūnī fīlius, **vēnit** ad Athēnās **oppugnandās**, sed hic **victus est**.
 *Neptūnus*, infestus quod fīlius ab Erechtheō **interfectus est**, **dīxit** “Erecthei *fīlia* immolanda **est**.”
