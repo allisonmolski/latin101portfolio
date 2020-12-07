@@ -1,3 +1,5 @@
+**Satisfactory: full credit**
+
 Venus cum Marte clam concumbebat.
 Factum Vulcano indicandum erat.
 Illa nocte Vulcanus catenam adamantis fecit et ea circum lectum posita est. 
