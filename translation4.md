@@ -12,15 +12,15 @@ Cum vātēs, *Cassandra*, **diceret** *equum* **habere** hostes, *fidēs* eī **
 B. Grammatical Questions
 What case is decem annōs and why? Accusative because it is a phrase expressing the duration of time in which an event took place.
 
-Parse possent (PNTMV) and explain its mood. 3rd person, plural, active, imperfect, subjunctive. Subjunctive because it is a hypothetical idea. **Why in this specific clause introduced by *cum* does Hyginus choose subjunctive rather than indicative?**
+Parse possent (PNTMV) and explain its mood. 3rd person, plural, active, imperfect, subjunctive. Subjunctive because it regards the cirucmstances of an event, rather than a specific moment in time. 
 
-Explain the sentence structure of DANAI MINERVAE DONUM DANT? Although reading it now we understand that the action was in the past, at the time, the action was present which is why dant is in the present tense. **Can you identify the function (e.g., subject, verb, direct object...) of each word?**
+Explain the sentence structure of DANAI MINERVAE DONUM DANT? Although reading it now we understand that the action was in the past, at the time, the action was present which is why dant is in the present tense. Danai- subject. Minervae- indirect object. Donum- direct object. Dant- verb. 
 
-What type of verb is arbitrati sunt? Transitive **Yes. What term can we use to describe verbs with  passive form but active meaning?**
+What type of verb is arbitrati sunt? Transitive and deponent
 
 What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts. Indirect and direct statement. Direct: "Priamus imperavit" Indirect: "equum in templum Minervae duci"
 
-Parse duci. Perfect, passive, infinitive
+Parse duci. Present passive, infinitive
 
 What case is ei and what role is it playing in the sentence? Nominative and plural, it is talking about the faith belonging to the Trojans.  **How can it be nominative if *data est* is the verb?**
 
