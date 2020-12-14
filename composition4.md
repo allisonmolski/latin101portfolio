@@ -11,7 +11,7 @@ Cum Hercules consilium audiret, is celeriter iit ad regnum et interfecit Lycum.
 Ob factum horribile, is punitus est a Junone, uxore Jovis. 
 
 
-Ea cepit caput Herculis, et is Megaram, Ophite, Therimacho interfecit.  **What case do we need for the people Hercules killed?**
+Ea cepit mentem Herculis, et is Megaram, Ophitem, Therimachum interfecit.
 
 
-Postea, Hercules nollet vivere, es in servitium ab MERCURY(accus) datus est. **Use an indicative main verb: *nolebat*.  I think you meant *is* rather than *es*.**
+Postea, Hercules nolebat vivere, is in servitium ab Mercurio datus est.
