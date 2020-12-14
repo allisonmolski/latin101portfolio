@@ -1,19 +1,14 @@
 **Needs revisions**
 
-Cum Lycus, filio Neptuni, missus est  **What case is *filio*? Why?**
-ad Cerberum triceps canis interficiendus, **All of the words "triceps canis interficiendus" are describing Cerberus, and need to be in the same case (accusative).**
-
-putabat Herculem mortuum esse.
+Cum Hercules mitteretur ad Cerberum tricipitem canem interficiendum, Lycus, filius Neptuni, putabat Herculem mortuum esse.
 
 
+Ideo, is voluit regnum Herculis capere et interficere Megaram, filiam Creontis et uxorem Herculis, et filios Herculis, Therimachum et Ophitem.
+
+Cum Hercules consilium audiret, is celeriter iit ad regnum et interfecit Lycum.
 
 
-Ideo, is voluit petere regnum Herculis et interficio Megara, filia Creontis et uxor Herculis, et filios Herculis, Therimachus et Ophis. **"Your second sentence should express that Lycus wanted to steal Hercules’ kingdom and kill his family"**
-
-Cum Hercules consilium audiverit, is celeriter iit ad regnum et interfecit Lycum.
-
-
-Causa facti horribile, is punitus est a JUNO(abl), uxor JUPITER (gen). **You can use the preposition *ob* with an accusative object, or use *causa* following a genitive.**
+Ob factum horribile, is punitus est a Junone, uxore Jovis. 
 
 
 Ea cepit caput Herculis, et is Megaram, Ophite, Therimacho interfecit.  **What case do we need for the people Hercules killed?**
