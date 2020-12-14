@@ -2,15 +2,12 @@
 
 Cum *Achīvī* decem annōs Troiam **capere** nōn **possent**, *Epeus* equum mirae magnitūdinis ligneum **fēcit**.
 In eō **collēctī sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus*.
-et in equō scripsērunt “DANAI MINERVAE DONUM DANT”,
+et in equō **scripsērunt** “*DANAI* MINERVAE DONUM **DANT**”,
 castraque **transtulērunt** Tenedo.
-Cum id *Troianī* **vidērunt**, **arbitratī sunt** hostēs abisse; *Priamus* **imperāvit** equum in templum Minervae **ducī**.
-Cum vātēs, *Cassandra*, **diceret** equum **habere** hostes, fidēs eī **data non est** et *equum* pro templō **posuērunt**.
-*Achīvī* **exiērunt** portārumque custodēs **occidērunt** et *Troiam* **sunt potitī**.
+Cum id *Troianī* **vidērunt**, **arbitratī sunt** *hostēs* **abisse**; *Priamus* **imperāvit** *equum* in templum Minervae **ducī**.
+Cum vātēs, *Cassandra*, **diceret** *equum* **habere** hostes, *fidēs* eī **data non est** et equum pro templō **posuērunt**.
+*Achīvī* **exiērunt** portārumque custodēs **occidērunt** et Troiam **sunt potitī**.
 
-**Do you see any clauses with subjects and verbs in "et in equō scripsērunt “DANAI MINERVAE DONUM DANT”"?**
-**What construction do you find after the verbs *diceret* and *imperavit*?  Can you mark subject/verbs in those subordinate expressions?**
-**What case is *Troiam*?**
 
 B. Grammatical Questions
 What case is decem annōs and why? Accusative because it is a phrase expressing the duration of time in which an event took place.
@@ -23,7 +20,7 @@ What type of verb is arbitrati sunt? Transitive **Yes. What term can we use to d
 
 What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts. Indirect and direct statement. Direct: "Priamus imperavit" Indirect: "equum in templum Minervae duci"
 
-Parse duci. Thirs person, plural, indicative, perfect, active **Check again! The form you identify would be *ducunt*.**
+Parse duci. Perfect, passive, infinitive
 
 What case is ei and what role is it playing in the sentence? Nominative and plural, it is talking about the faith belonging to the Trojans.  **How can it be nominative if *data est* is the verb?**
 
