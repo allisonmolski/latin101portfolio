@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory:  full credit**
 
 Cum *Achīvī* decem annōs Troiam **capere** nōn **possent**, *Epeus* equum mirae magnitūdinis ligneum **fēcit**.
 In eō **collēctī sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus*.
@@ -33,6 +33,6 @@ In it were collected Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas, 
 and on it they wrote "The Greeks give a gift to Minerva", and they transferred their military camps to Tenedos.
 When the Trojans saw it, they thought that the enemy had gone away.
 Priamus ordered the horse to be led into the temple of Minerva.
-When the prophet, Cassandra, said that the horse contianed the enemy, faith was not given to her.
+When the prophet, Cassandra, said that the horse contained the enemy, faith was not given to her.
 and they placed the horse in front of the temple.
 The Greeks got out and killed the guards of the gates and they conquered Troy.
