@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory: full credit**
 
 Cum Hercules mitteretur ad Cerberum tricipitem canem interficiendum, Lycus, filius Neptuni, putabat Herculem mortuum esse.
 
